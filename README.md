@@ -1,7 +1,7 @@
 English l [Persian](/persianREADME.md)
 <p align="center">
-  <a href="https://github.com/x0sina/marzban-sub" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/hayouswf68/marzban-sub/main/PreviewTemplate.png" title="Marzban-Sub"/>
+  <a href="https://github.com/hayousef68/marzban-sub" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/hayousef68/marzban-sub/main/PreviewTemplate.png" title="Marzban-Sub"/>
   </a>
 </p>
 <h1 align="center">Subscription Template for <a href="https://github.com/Gozargah/Marzban">Marzban Panel</a></h1>
